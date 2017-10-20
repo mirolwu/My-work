@@ -1,0 +1,129 @@
+@charset "utf-8";
+.wrap{
+	width: 1200px;
+}
+.header{
+	padding:0;
+}
+.hd_logo{
+	left: 55px;
+}
+.hd_login{
+	margin-right: 0;
+}
+.hd_con_search_txt input{
+	display: inline-block;
+	width: 260px;
+	height: 27px;
+	padding: 3px 8px;
+	border:1px solid #aaa;
+}
+.hd_con_search_txt{
+	display: inline-block;
+	position: relative;
+}
+.hd_con_search_txt:after{
+	content:"";
+	display:inline-block;
+	background: url(../img/mc16.png) center center no-repeat;
+	width:30px;
+	height: 27px;
+	position:absolute;
+	top: 11px;
+	right: 2px;
+	cursor:pointer;
+}
+.hd_con_search{
+	display: none;
+}
+.hd_con{
+	height: 50px;
+	line-height: 50px;
+}
+
+
+/*轮播图*/
+
+.banner_wrap{
+	height: 480px;
+}
+.txt h2{
+  font-size: 40px;
+}
+.txt_box_t1{
+  font-size: 25px;
+  margin-top: 10px;
+}
+.txt_box_t2{
+  margin-top: 10px;
+}
+.txt_box_t3{
+  margin-top: 10px;
+}
+
+/*内容*/
+
+.conpic{
+	margin:40px 1% 0;
+}
+.conpic_txt{
+  width: 23%;
+  margin:0 1%;
+  float: left;
+}
+
+
+/*大图无轮播*/
+
+.banner_wrap_nom .slider{
+	display: block;
+}
+.banner_wrap_nom .banner{
+	width: 1200px;
+}
+.slider li{
+  width:1200px;
+  height:480px;
+  overflow: hidden;
+}
+.slider img{
+  width: 100%;
+}
+
+
+
+
+/*尾部ul*/
+
+.foot_menu{
+  width: 12%;
+}
+.foot_right{
+	margin-right: 0;
+}
+.foot_earth{
+	float: left;
+}
+.foot_right ul{
+	float: right;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrap{
+  min-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
