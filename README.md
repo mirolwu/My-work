@@ -1,3 +1,5 @@
+### 《READEME中所有图片均是GIF图，可能加载有些缓慢》
+
 # 1. 基于html、css、javascript、iconfont做的微软中国官方首页（移动PC端响应式开发）。
 
 --------
