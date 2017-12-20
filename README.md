@@ -58,4 +58,6 @@
 * 歌单展示区
 	* 图片可以点击放大、缩小、旋转
 * 页脚信息
+
+### 效果
 ![image](https://github.com/mirolwu/My-work/blob/master/img/mirolwu2.gif)
