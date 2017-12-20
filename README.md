@@ -42,7 +42,7 @@
 
 
 
-# 2.1. 基于html、css、javascript、iconfont做的音悦台官方首页（纯移动端）。
+# 2. 基于html、css、javascript、iconfont做的音悦台官方首页（纯移动端）。
 
 --------
 ### 概述
