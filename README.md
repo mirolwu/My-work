@@ -1,4 +1,5 @@
-### 《READEME中所有图片均是GIF图，可能加载有些缓慢》
+##### 《READEME中所有图片均是GIF图，可能加载有些缓慢》
+--------
 
 # 1. 基于html、css、javascript、iconfont做的微软中国官方首页（移动PC端响应式开发）。
 
@@ -46,7 +47,7 @@
 
 --------
 ### 概述
-项目是基于html、css、javascript、iconfont做的音悦台官方首页。自己动手实践并改进完成的。
+项目是基于html、css、javascript、iconfont做的音悦台官方首页。自己动手实践并改进完成的。页面中的轮播图及图片点击放大缩小、旋转以及滚条及滑动全是自己动手用原生JavaScript完成的。
 #### 视图层
 > 
 * 导航栏
