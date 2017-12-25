@@ -66,5 +66,6 @@
 
 ----------
 ##  当然我的作品远不止这些，可以说这两个作品算是比较容易的，但是最近学习了Vue.js，感慨Vue的强大，很是佩服尤雨溪大神，Vue的缔造者（666）！也很佩服慕课网及滴滴出行D8成员之一的黄轶老师！真的是神一般的存在，代码优雅精美，逻辑清晰，授课也很专业、详细！     当然，我的另两个项目作品也是师出黄轶老师！基于尊重黄老师的劳动成果，我只有Fork咯！哈哈！！！ 如下：
-* Vue2.0高仿饿了么外卖App：https://github.com/mirolwu/vue-sell
-* vue2.0开发大型项目音乐App： https://github.com/mirolwu/vue-music
+* Vue2.0高仿饿了么外卖App： https://github.com/mirolwu/vue-sell
+* Vue2.0开发大型项目音乐App： https://github.com/mirolwu/vue-music
+* JS小游戏： https://github.com/mirolwu/js-game
