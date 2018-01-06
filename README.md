@@ -69,3 +69,4 @@
 * Vue2.0高仿饿了么外卖App： https://github.com/mirolwu/vue-sell
 * Vue2.0开发大型项目音乐App： https://github.com/mirolwu/vue-music
 * JS小游戏： https://github.com/mirolwu/js-game
+* 因为喜欢玩dota2，所以就仿了个dota2官网练练手！：https://github.com/mirolwu/dota2
